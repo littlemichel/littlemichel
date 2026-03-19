@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, sou a Michel 👋
 
-<!--
-**littlemichel/littlemichel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Administrator & DevOps Engineer based in Aveiro, Portugal 🇵🇹
 
-Here are some ideas to get you started:
+## 🛠️ Stack
+- **Infra:** Proxmox · Linux · Docker Swarm · Portainer
+- **Automation:** Python · Bash · udev · cron
+- **Protocols:** Modbus-TCP · OPC UA
+- **DB:** MySQL · SQL Server
+- **Other:** RabbitMQ · Node.js · Windows scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I do
+- Platform & systems administration in production environments
+- Industrial automation and IoT protocol integration
+- Cybersecurity oversight and infrastructure monitoring
+- Building internal tooling and automation scripts
+
+## 📌 Currently learning
+- DevOps best practices & container orchestration
+- Linux certification (LFCS)
+
+## 📫 Let's connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/almabastos)
