@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/littlemichel"><img src="https://img.shields.io/badge/Open%20to%20work-3ddc97?style=flat-square&logoColor=white" alt="Git Profile"></a>
+  <a href="https://github.com/littlemichel"><img src="https://img.shields.io/badge/GitHub%20Profile%20-3ddc97?style=flat-square&logoColor=white" alt="Git Profile"></a>
   <a href="mailto:michelle.debastos@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20me-4aa8ff?style=flat-square" alt="Email"></a>
 </p>
 
