@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Michel 👋</h1>
 <p align="center">
-  <b>Systems Administrator → DevOps Engineer</b><br>
+  <b>Systems Administrator → DevOps </b><br>
   <sub>Linux · Proxmox · Docker Swarm · Python · Industrial protocols (Modbus-TCP / OPC UA)</sub><br>
   <sub>📍 Aveiro, Portugal 🇵🇹</sub>
 </p>
